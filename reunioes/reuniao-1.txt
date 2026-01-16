@@ -5,7 +5,7 @@ Data: 16 de Janeiro de 2025
 Hora: 10:00
 
 Participantes:
-- [Seu nome]
+- Silvia Pereira
 
 Assuntos discutidos:
 - Organização do projeto
