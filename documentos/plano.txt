@@ -1,0 +1,14 @@
+PLANO DE TRABALHO
+================
+
+Data: 16 de Janeiro de 2025
+
+Objetivos do dia:
+- Organizar estrutura do projeto
+- Criar documentação inicial
+- Preparar reunião
+
+Tarefas:
+1. Configurar repositório
+2. Criar estrutura de pastas
+3. Documentar processo

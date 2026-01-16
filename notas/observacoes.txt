@@ -1,0 +1,20 @@
+OBSERVAÇÕES DO DIA
+==================
+
+Data: 16 de Janeiro de 2025
+
+Notas importantes:
+- Sempre verificar a branch antes de trabalhar
+- Fazer commits frequentes com mensagens claras
+- Sincronizar regularmente com o GitHub
+
+Aprendizagens:
+- Processo de criação de branches
+- Organização de ficheiros em repositório
+- Importância do controlo de versões
+
+Dificuldades encontradas:
+- [Adicione as suas dificuldades aqui]
+
+Soluções aplicadas:
+- [Adicione as soluções aqui]

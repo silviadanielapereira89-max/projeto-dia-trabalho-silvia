@@ -1,0 +1,22 @@
+ATA DE REUNIÃO #1
+=================
+
+Data: 16 de Janeiro de 2025
+Hora: 10:00
+
+Participantes:
+- [Seu nome]
+
+Assuntos discutidos:
+- Organização do projeto
+- Definição de estrutura
+- Planeamento de tarefas
+
+Decisões:
+- Utilizar GitHub para controlo de versões
+- Trabalhar sempre em branches separadas
+- Nunca fazer commits diretos na main
+
+Próximos passos:
+- Continuar organização
+- Validar estrutura criada
